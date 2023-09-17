@@ -1,0 +1,23 @@
+body {
+
+    font-size: 22px;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    line-height: 1.5;
+
+    background-color: darkgoldenrod;
+    color: rgb(245, 238, 238);
+}
+
+p {
+
+    color: yellow;
+    
+}
+
+#unit {
+
+    border: 2px dotted rgb(21, 21, 21);
+    width: 40%;
+}
