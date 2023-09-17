@@ -1,0 +1,39 @@
+/* selectors */
+
+body {
+
+    font-size: 22px;
+}
+
+p {
+
+    color: blueviolet;
+}
+
+/* class */
+
+.first {
+
+    color: cadetblue;
+}
+
+/* -- */
+
+/* ID . Not to be used in css */
+#second {
+
+    font-style: italic;
+}
+
+
+h1 ,h3 {
+
+    color: brown;
+}
+
+div   {
+
+    color: darkorange;
+    text-transform: capitalize;
+    background-color: gold;
+}
